@@ -1,0 +1,31 @@
+div{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-weight: bolder;
+}
+h2{
+   text-align: center; 
+}
+img{
+    height: 200px;
+    width: 200px;
+    margin: center;
+    text-align: center;
+    border-radius: 50%;
+}
+h3{
+    text-align: justify;
+}
+p{
+    text-align: justify;
+    font-weight: lighter;
+}
+ul{
+    text-align: justify;
+    font-weight: lighter;
+}
+li{
+    text-align: justify;
+}
